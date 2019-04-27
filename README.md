@@ -19,59 +19,59 @@ This project is my personal work for the Java Amazon Project.
 * 012_Test scenarios for Add to List
 * 013_Tell Us How We Can Improve Feedback
 
-## [_01_Test scenarios for Add New Address on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddNewAddressOnAmazon.java)
+## [01_Test scenarios for Add New Address on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddNewAddressOnAmazon.java)
 ## Screenshots
-![_01_Test scenarios for Add New Address on Amazon](img/Add%20New%20Address%20on%20Amazon.png)
+![01_Test scenarios for Add New Address on Amazon](img/Add%20New%20Address%20on%20Amazon.png)
 
-## [_02_Test scenarios for Footer Page on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/FooterPageOnAmazon.java)
+## [02_Test scenarios for Footer Page on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/FooterPageOnAmazon.java)
 ## Screenshots
-![_02_Test scenarios for Footer Page on Amazon](img/Footer%20Page%20on%20Amazon.png)
+![02_Test scenarios for Footer Page on Amazon](img/Footer%20Page%20on%20Amazon.png)
 
-## [_03_Test scenarios for Forgot Password](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ForgotPassword.java)
+## [03_Test scenarios for Forgot Password](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ForgotPassword.java)
 ## Screenshots
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F.png)
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(2).png)
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(3).png)
+![03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F.png)
+![03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(2).png)
+![03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(3).png)
 
-## [_04_Test scenarios for Language Settings on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/LanguageSettingsOnAmazon.java)
+## [04_Test scenarios for Language Settings on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/LanguageSettingsOnAmazon.java)
 ## Screenshots
-![_04_Test scenarios for Language Settings on Amazon](img/Language%20Settings%20on%20Amazon.png)
+![04_Test scenarios for Language Settings on Amazon](img/Language%20Settings%20on%20Amazon.png)
 
-## [_05_Test Scenarios Login Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/loginToAmazon.java)
+## [05_Test Scenarios Login Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/loginToAmazon.java)
 ## Screenshots
-![_05_Test Scenarios Login Page](img/Sign%20in.png)
+![05_Test Scenarios Login Page](img/Sign%20in.png)
 
-## [_06_Test scenarios for Registration Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/registerationAmazon.java)
+## [06_Test scenarios for Registration Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/registerationAmazon.java)
 ## Screenshots
-![_06_Test scenarios for Registration Page](img/Registration%20Page.png)
+![06_Test scenarios for Registration Page](img/Registration%20Page.png)
 
-## [_07_Test scenarios for Results Sidebar on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ResultsSidebarOnAmazon.java)
+## [07_Test scenarios for Results Sidebar on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ResultsSidebarOnAmazon.java)
 ## Screenshots
-![_07_Test scenarios for Results Sidebar on Amazon](img/Results%20Sidebar%20on%20Amazon.png)
+![07_Test scenarios for Results Sidebar on Amazon](img/Results%20Sidebar%20on%20Amazon.png)
 
-## [_08_Test scenarios for Search an Item and Add Quantity](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchAnItemAndAddQuantity.java)
+## [08_Test scenarios for Search an Item and Add Quantity](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchAnItemAndAddQuantity.java)
 ## Screenshots
-![_08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity.png)
-![_08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity(2).png)
+![08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity.png)
+![08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity(2).png)
 
-## [_09_Test scenarios for Search on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchOnAmazon.java)
+## [09_Test scenarios for Search on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchOnAmazon.java)
 
-## [_010_Test scenarios for Shopping Cart Counter](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ShoppingCartCounter.java)
+## [010_Test scenarios for Shopping Cart Counter](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ShoppingCartCounter.java)
 ## Screenshots
-![_010_Test scenarios for Shopping Cart Counter](img/Shopping%20Cart%20Counter.png)
+![010_Test scenarios for Shopping Cart Counter](img/Shopping%20Cart%20Counter.png)
 
-## [_011_Test scenarios for Site Preferences on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SitePreferencesOnAmazon.java)
+## [011_Test scenarios for Site Preferences on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SitePreferencesOnAmazon.java)
 ## Screenshots
-![_011_Test scenarios for Site Preferences on Amazon](img/Site%20Preferences%20on%20Amazon.png)
+![011_Test scenarios for Site Preferences on Amazon](img/Site%20Preferences%20on%20Amazon.png)
 
-## [_012_Test scenarios for Add to List](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddToList.java)
+## [012_Test scenarios for Add to List](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddToList.java)
 ## Screenshots
-![_012_Test scenarios for Add to List](img/Add%20to%20List.png)
-![_012_Test scenarios for Add to List](img/Add%20to%20List(2).png)
+![012_Test scenarios for Add to List](img/Add%20to%20List.png)
+![012_Test scenarios for Add to List](img/Add%20to%20List(2).png)
 
-## [_013_Tell Us How We Can Improve Feedback](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/TellUsHowWeCanImproveFeedback.java)
+## [013_Tell Us How We Can Improve Feedback](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/TellUsHowWeCanImproveFeedback.java)
 ## Screenshots
-![_013_Tell Us How We Can Improve Feedback](img/Tell%20Us%20How%20We%20Can%20Improve%20Feedback.png)
+![013_Tell Us How We Can Improve Feedback](img/Tell%20Us%20How%20We%20Can%20Improve%20Feedback.png)
 
 ## Status
 Project is: _finished_
