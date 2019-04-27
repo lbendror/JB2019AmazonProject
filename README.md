@@ -18,10 +18,9 @@ This project is my personal work for the Java Amazon Project.
 * [_012_Test scenarios for Add to List](#_012_TestscenariosforAddtoList)
 * [_013_Tell Us How We Can Improve Feedback](#_013_TellUsHowWeCanImproveFeedback)
 
-## [_01_Test scenarios for Add New Address on Amazon](https://github.com)
-
+## [_01_Test scenarios for Add New Address on Amazon](https://github.com/lbendror/JB2019AmazonProject/blob/master/src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddNewAddressOnAmazon.java)
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Add New Address on Amazon](img/Add%20New%20Address%20on%20Amazon.png)
 
 ## [_02_Test scenarios for Footer Page on Amazon](https://github.com)
 ## Screenshots
