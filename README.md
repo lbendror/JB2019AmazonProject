@@ -28,9 +28,9 @@ This project is my personal work for the Java Amazon Project.
 
 ## [_03_Test scenarios for Forgot Password](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ForgotPassword.java)
 ## Screenshots
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?.png)
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?(2).png)
-![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?(3).png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F.png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(2).png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password%3F(3).png)
 
 ## [_04_Test scenarios for Language Settings on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/LanguageSettingsOnAmazon.java)
 ## Screenshots
