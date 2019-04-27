@@ -7,7 +7,7 @@ This project is my personal work for the Java Amazon Project.
 * [_01_Test scenarios for Add New Address on Amazon](#TestscenariosforAddNewAddressonAmazon)
 * [_02_Test scenarios for Footer Page on Amazon](#_02_TestscenariosforFooterPageonAmazon)
 * [_03_Test scenarios for Forgot Password](#_03_TestscenariosforForgotPassword)
-* [_04_Test scenarios for Language Settings on Amazon](#_04_TestscenariosforLanguageSettingsonAmazon)
+* [_04_Test scenarios for Language Settings on Amazon](#_04_Test scenarios for Language Settings on Amazon)
 * [_05_Test Scenarios Login Page](#_05_TestScenariosLoginPage)
 * [_06_Test scenarios for Registration Page](#_06_TestscenariosforRegistrationPage)
 * [_07_Test scenarios for Results Sidebar on Amazon](#_07_TestscenariosforResultsSidebaronAmazon)
