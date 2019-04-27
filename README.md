@@ -1,22 +1,23 @@
+
 # Java & Test Automation Course - Final
 
 John Bryce 2019.
 This project is my personal work for the Java Amazon Project.
 
 ## Table of contents
-* [_01_Test scenarios for Add New Address on Amazon](#TestscenariosforAddNewAddressonAmazon)
-* [_02_Test scenarios for Footer Page on Amazon](#_02_TestscenariosforFooterPageonAmazon)
-* [_03_Test scenarios for Forgot Password](#_03_TestscenariosforForgotPassword)
-* [_04_Test scenarios for Language Settings on Amazon](#_04_Test scenarios for Language Settings on Amazon)
-* [_05_Test Scenarios Login Page](#_05_TestScenariosLoginPage)
-* [_06_Test scenarios for Registration Page](#_06_TestscenariosforRegistrationPage)
-* [_07_Test scenarios for Results Sidebar on Amazon](#_07_TestscenariosforResultsSidebaronAmazon)
-* [_08_Test scenarios for Search an Item and Add Quantity](#_08_TestscenariosforSearchanItemandAddQuantity)
-* [_09_Test scenarios for Search on Amazon](#_09_TestscenariosforSearchonAmazon)
-* [_010_Test scenarios for Shopping Cart Counter](#_010_TestscenariosforShoppingCartCounter)
-* [_011_Test scenarios for Site Preferences on Amazon](#_011_TestscenariosforSitePreferencesonAmazon)
-* [_012_Test scenarios for Add to List](#_012_TestscenariosforAddtoList)
-* [_013_Tell Us How We Can Improve Feedback](#_013_TellUsHowWeCanImproveFeedback)
+* 01 Test scenarios for Add New Address on Amazon
+* 02_Test scenarios for Footer Page on Amazon
+* 03_Test scenarios for Forgot Password
+* 04_Test scenarios for Language Settings on Amazon
+* 05_Test Scenarios Login Page
+* 06_Test scenarios for Registration Page
+* 07_Test scenarios for Results Sidebar on Amazon
+* 08_Test scenarios for Search an Item and Add Quantity
+* 09_Test scenarios for Search on Amazon
+* 010_Test scenarios for Shopping Cart Counter
+* 011_Test scenarios for Site Preferences on Amazon
+* 012_Test scenarios for Add to List
+* 013_Tell Us How We Can Improve Feedback
 
 ## [_01_Test scenarios for Add New Address on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddNewAddressOnAmazon.java)
 ## Screenshots
