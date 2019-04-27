@@ -24,60 +24,53 @@ This project is my personal work for the Java Amazon Project.
 
 ## [_02_Test scenarios for Footer Page on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/FooterPageOnAmazon.java)
 ## Screenshots
-![_02_Test scenarios for Footer Page on Amazon](img/Footer Page on Amazon.png)
+![_02_Test scenarios for Footer Page on Amazon](img/Footer%20Page%20on%20Amazon.png)
 
 ## [_03_Test scenarios for Forgot Password](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ForgotPassword.java)
 ## Screenshots
-![_03_Test scenarios for Forgot Password](img/Forgot your password?.png)
-![_03_Test scenarios for Forgot Password](img/Forgot your password?(2).png)
-![_03_Test scenarios for Forgot Password](img/Forgot your password?(3).png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?.png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?(2).png)
+![_03_Test scenarios for Forgot Password](img/Forgot%20your%20password?(3).png)
 
 ## [_04_Test scenarios for Language Settings on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/LanguageSettingsOnAmazon.java)
 ## Screenshots
-![_04_Test scenarios for Language Settings on Amazon](img/Language Settings on Amazon.png)
+![_04_Test scenarios for Language Settings on Amazon](img/Language%20Settings%20on%20Amazon.png)
 
 ## [_05_Test Scenarios Login Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/loginToAmazon.java)
 ## Screenshots
-![_05_Test Scenarios Login Page](img/Sign in.png)
+![_05_Test Scenarios Login Page](img/Sign%20in.png)
 
 ## [_06_Test scenarios for Registration Page](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/registerationAmazon.java)
 ## Screenshots
-![_06_Test scenarios for Registration Page](img/Registration Page.png)
+![_06_Test scenarios for Registration Page](img/Registration%20Page.png)
 
 ## [_07_Test scenarios for Results Sidebar on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ResultsSidebarOnAmazon.java)
 ## Screenshots
-![_07_Test scenarios for Results Sidebar on Amazon](img/Results Sidebar on Amazon.png)
+![_07_Test scenarios for Results Sidebar on Amazon](img/Results%20Sidebar%20on%20Amazon.png)
 
 ## [_08_Test scenarios for Search an Item and Add Quantity](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchAnItemAndAddQuantity.java)
 ## Screenshots
-![_08_Test scenarios for Search an Item and Add Quantity](img/Search an Item and Add Quantity.png)
-![_08_Test scenarios for Search an Item and Add Quantity](img/Search an Item and Add Quantity(2).png)
+![_08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity.png)
+![_08_Test scenarios for Search an Item and Add Quantity](img/Search%20an%20Item%20and%20Add%20Quantity(2).png)
 
 ## [_09_Test scenarios for Search on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SearchOnAmazon.java)
 
 ## [_010_Test scenarios for Shopping Cart Counter](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/ShoppingCartCounter.java)
 ## Screenshots
-![_010_Test scenarios for Shopping Cart Counter](img/Shopping Cart Counter.png)
+![_010_Test scenarios for Shopping Cart Counter](img/Shopping%20Cart%20Counter.png)
 
 ## [_011_Test scenarios for Site Preferences on Amazon](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/SitePreferencesOnAmazon.java)
 ## Screenshots
-![_011_Test scenarios for Site Preferences on Amazon](img/Site Preferences on Amazon.png)
+![_011_Test scenarios for Site Preferences on Amazon](img/Site%20Preferences%20on%20Amazon.png)
 
 ## [_012_Test scenarios for Add to List](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/AddToList.java)
 ## Screenshots
-![_012_Test scenarios for Add to List](img/Add to List.png)
-![_012_Test scenarios for Add to List](img/Add to List(2).png)
+![_012_Test scenarios for Add to List](img/Add%20to%20List.png)
+![_012_Test scenarios for Add to List](img/Add%20to%20List(2).png)
 
 ## [_013_Tell Us How We Can Improve Feedback](src/main/java/JB2019AmazonProject/JB2019AmazonProject/tests/TellUsHowWeCanImproveFeedback.java)
 ## Screenshots
-![_013_Tell Us How We Can Improve Feedback](img/Tell Us How We Can Improve Feedback.png)
-
-To-do list:
-* On GitHub, navigate to the main page of the repository.
-Under the repository name, click Clone or download.
-In the Clone with HTTPs section, click to copy the clone URL for the repository.
-Open Git Bash.
-Change the current working directory to the location where you want the cloned directory to be made.
+![_013_Tell Us How We Can Improve Feedback](img/Tell%20Us%20How%20We%20Can%20Improve%20Feedback.png)
 
 ## Status
 Project is: _finished_
@@ -85,8 +78,8 @@ Project is: _finished_
 ## Inspiration
 Add here credits. Project inspired by Rony, based on John Bryce 2019 Course
 
-## Contact
-Created by [@lbendror](https://github.com/lbendror)
+## Contact to:
+[@lbendror](https://github.com/lbendror)
 
-# Create By:
-Site **StackEdit** [[https://stackedit.io/](https://stackedit.io/)]
+# Create By Site **StackEdit** 
+[[https://stackedit.io/](https://stackedit.io/)]
