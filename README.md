@@ -77,7 +77,7 @@ This project is my personal work for the Java Amazon Project.
 Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by Rony, based on John Bryce 2019 Course
+Project inspired by Rony, based on John Bryce 2019 Course
 
 ## Contact to:
 [@lbendror](https://github.com/lbendror)
